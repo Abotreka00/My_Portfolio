@@ -1,0 +1,15 @@
+#root {
+  overflow: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #060417;
+}
+
+.active {
+  border-bottom: 2px solid #a993fe;
+}
